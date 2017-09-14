@@ -1,0 +1,79 @@
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\ApplicationInsights.config
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll.config
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.pdb
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\MySql.Data.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.csproj.CoreCompileInputs.cache
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.dll
+C:\Users\hugow\Contacts\Downloads\LTP2_3SI-master\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.pdb
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\ApplicationInsights.config
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll.config
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.pdb
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\MySql.Data.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.dll
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.pdb
+C:\Users\143430\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.csprojResolveAssemblyReference.cache
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\ApplicationInsights.config
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll.config
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\LTP2_ControleAcademico.pdb
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\MySql.Data.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.Web.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.csproj.CoreCompileInputs.cache
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.dll
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.pdb
+C:\Users\hugow\Google Drive\3 ano\LTP2_ControleAcademico\LTP2_ControleAcademico\obj\Debug\LTP2_ControleAcademico.csprojResolveAssemblyReference.cache
